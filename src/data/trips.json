@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/destination-1.jpg",
+    "alt": "Venice",
+    "name": "Venice",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/destination-2.jpg",
+    "alt": "Maldives",
+    "name": "Maldives",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/destination-3.jpg",
+    "alt": "Paris",
+    "name": "Paris",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/destination-4.jpg",
+    "alt": "Bali",
+    "name": "Bali",
+    "button": "View Destination"
+  }
+]
