@@ -26,6 +26,7 @@ const Testimonials = () => {
       }
     }
   `)
+
   return (
     <TestimonialsContainer>
       <TopLine>Testimonials</TopLine>
